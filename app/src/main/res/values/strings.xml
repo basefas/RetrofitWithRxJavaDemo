@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitWithRxJavaDemo</string>
+    <string name="get">Get!</string>
+    <string name="github_name">输入Github用户名</string>
+</resources>
